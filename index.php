@@ -2,7 +2,7 @@
 
 <?php
 
-echo 'salom';
+echo '<h1>salom</h1>';
 
 
 
