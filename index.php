@@ -12,11 +12,12 @@
             </ul>
         </div>
         <div class="justify-content-end">
-            <button type="submit" class="btn btn-outline-success m-2">Sign-in</button>
+            <a href="login.php" class="btn btn-outline-success m-2">Sign-in</a>
         </div>
     </nav>
-    <form action="login.php" method="post">
-
-    </form>
+    <section class="home" id="home">
+        
+    </section>
+    
 </div>
 <? include 'footer.php'; ?>
